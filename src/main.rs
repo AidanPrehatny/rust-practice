@@ -10,6 +10,6 @@ fn main() {
     // vars::run();
     // types::run();
     // strings::run();
-    tuples::run();
+    // tuples::run();
     arrays::run();
 }
